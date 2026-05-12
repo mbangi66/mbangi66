@@ -8,7 +8,7 @@
 
 **Senior Laravel & Systems Engineer · Kuwait City** &nbsp;·&nbsp; **GMT+3**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mustaqeembangi.com-6366f1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=05080f)](https://mustaqeembangi.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mustaqeembangi.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=05080f)](https://mustaqeembangi.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mustaqeembangi-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=05080f)](https://www.linkedin.com/in/mustaqeembangi/)
 [![Email](https://img.shields.io/badge/Email-mbangi66%40gmail.com-3b82f6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05080f)](mailto:mbangi66@gmail.com)
 [![X](https://img.shields.io/badge/X-%40Mustaqeembangi-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=05080f)](https://twitter.com/Mustaqeembangi)
@@ -100,30 +100,27 @@ Single-number, multi-provider WhatsApp commerce. Generic flow engine for restaur
 
 ---
 
-### `// the numbers`
+### `// the streak`
 
 <div align="center">
 
 <a href="https://github.com/mbangi66">
-  <img height="172" src="https://github-readme-stats.vercel.app/api?username=mbangi66&show_icons=true&count_private=true&hide_border=false&bg_color=0b1020&title_color=6366f1&icon_color=3b82f6&text_color=a1a1aa&border_color=1f2937&include_all_commits=true&rank_icon=github" />
-</a>
-<a href="https://github.com/mbangi66">
-  <img height="172" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbangi66&layout=compact&hide_border=false&bg_color=0b1020&title_color=6366f1&text_color=a1a1aa&border_color=1f2937&langs_count=8&hide=html,css" />
-</a>
-
-<a href="https://github.com/mbangi66">
-  <img height="172" src="https://streak-stats.demolab.com?user=mbangi66&theme=dark&hide_border=false&background=0b1020&stroke=1f2937&ring=6366f1&fire=3b82f6&currStreakLabel=6366f1&sideLabels=a1a1aa&dates=a1a1aa&currStreakNum=ffffff&sideNums=ffffff" />
+  <img src="https://streak-stats.demolab.com?user=mbangi66&theme=dark&hide_border=false&background=0b1020&stroke=1f2937&ring=6366f1&fire=3b82f6&currStreakLabel=6366f1&sideLabels=a1a1aa&dates=a1a1aa&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" />
 </a>
 
 </div>
 
 ---
 
-### `// last 12 months on github`
+### `// snake eats the contribution graph`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mbangi66&theme=react-dark&bg_color=05080f&hide_border=true&line=6366f1&color=a1a1aa&point=ffffff&area=true&area_color=6366f1&custom_title=Contribution%20activity" alt="Contribution graph" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mbangi66/mbangi66/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mbangi66/mbangi66/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation eating the contribution graph" src="https://raw.githubusercontent.com/mbangi66/mbangi66/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
 
 </div>
 
