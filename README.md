@@ -1,12 +1,12 @@
 <div align="center">
 
-<a href="https://mustaqeembangi.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=720&height=44&lines=Senior+Laravel+%26+Systems+Engineer;Production-grade+SaaS+for+the+Gulf;Add%2C+don't+replace.;3%2B+years+shipping+to+production." alt="Mustaqeem Bangi — Senior Laravel & Systems Engineer" />
+<a href="https://mustaqeembangi.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=720&height=44&lines=Senior+Laravel+%26+Systems+Engineer;Production+SaaS+for+Kuwait+%26+the+GCC;From+code+to+servers%2C+end+to+end;Ship+in+small+steps.+Never+break+production." alt="Mustaqeem Bangi — Senior Laravel & Systems Engineer" />
 </a>
 
-# Hey, I'm Mustaqeem Bangi&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" /><img alt="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /></picture>
+# Hey, I'm Mustaqeem Bangi&nbsp;<img alt="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
 
-**Senior Laravel & Systems Engineer · Kuwait City** &nbsp;·&nbsp; **GMT+3**
+**Senior Laravel & Systems Engineer** &nbsp;·&nbsp; Kuwait City (GMT+3)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mustaqeembangi.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=05080f)](https://mustaqeembangi.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mustaqeembangi-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=05080f)](https://www.linkedin.com/in/mustaqeembangi/)
@@ -19,43 +19,67 @@
 
 ### `// about`
 
-I architect and ship production SaaS for the GCC — competitive intelligence, fleet telematics, WhatsApp commerce. Backward compatible from day one. **Stability above clean code.** Public routes, Blade vars, Livewire properties, API response keys, DB columns — preserved across versions. Feature flags, tests, and incremental delivery beat heroic rewrites every time.
+I build and run production software for businesses in Kuwait and the GCC, end to end: the Laravel code, payment and messaging integrations, the servers, the deploys and the backups.
 
-> &nbsp;💼 &nbsp;Currently leading a multi-product Laravel + Filament stack &nbsp;·&nbsp; 🛠️ &nbsp;3+ years of production Laravel &nbsp;·&nbsp; 🌍 &nbsp;Based in Kuwait, originally from Maharashtra
+Most of my work is on systems that are already live and earning money, so I care more about keeping them working than about rewriting them. Changes stay backward compatible and go out behind feature flags, in small steps, with tests.
+
+- 💼 &nbsp;Lead engineer across a portfolio of multi-tenant Laravel products
+- 🛠️ &nbsp;3+ years shipping Laravel to production
+- 🗣️ &nbsp;Bilingual products by default: Arabic (RTL) and English
+- 🌍 &nbsp;Based in Kuwait, originally from Maharashtra, India
 
 ---
 
-### `// what I'm building`
+### `// what I build`
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-#### 🧠 &nbsp;Social Hub
-[`social-hub.net`](https://social-hub.net)
-
-AI-powered competitive intelligence + social media management SaaS for the GCC. 7 specialized AI tools, 116 routes, Anthropic batch processing, multi-tenant from day one.
-
-`Laravel` · `Vue 3` · `Inertia` · `Anthropic` · `Apify`
+#### 🍽️ &nbsp;Restaurant & POS systems
+Online ordering, admin back office, tablet POS, kitchen printing, delivery-platform integrations, accounting and HR, multi-brand and multi-branch.
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-#### 🛰️ &nbsp;Fleet Telematics
-[`gps-majestic.com`](https://gps-majestic.com)
-
-Real-time GPS tracking for 7,000+ vehicles. Python sync moves 2.4M rows MSSQL → MariaDB. Node listener under PM2. 18 ms p95 WebSocket bridge.
-
-`Laravel` · `Python` · `Node.js` · `PM2` · `MariaDB`
+#### 🛒 &nbsp;E-commerce & retail
+Storefronts with in-store POS, a mobile app API, warehouse and stock management, and local payment gateways.
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-#### 💬 &nbsp;WhatsApp Commerce
+#### 💬 &nbsp;WhatsApp commerce & automation
+Ordering, bookings and payments over WhatsApp, with interactive flows, AI replies, and spam and cost controls on every automated path.
 
-Single-number, multi-provider WhatsApp commerce. Generic flow engine for restaurant ordering, reservations, bookings. Arabic/English locale, MyFatoorah, Meta Flow v7.2.
+</td>
+<td width="50%" valign="top">
 
-`Laravel` · `Meta Flow v7.2` · `MyFatoorah` · `Redis`
+#### 🧠 &nbsp;AI-powered SaaS
+Multi-tenant products built on LLMs: competitive intelligence, social-media management, and large batch processing.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🩺 &nbsp;Clinic & booking platforms
+One codebase serving many clients, configured per install rather than forked: appointments, patient records and reminders.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛰️ &nbsp;Real-time & data pipelines
+Live GPS and fleet tracking, WebSocket dashboards, and syncing large datasets between databases.
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+#### 🖥️ &nbsp;DevOps & hosting
+I run Linux servers that host many Laravel apps side by side: zero-downtime deploys, queue workers, caching, monitoring and automated off-site backups.
 
 </td>
 </tr>
@@ -66,7 +90,7 @@ Single-number, multi-provider WhatsApp commerce. Generic flow engine for restaur
 ### `// tech I reach for daily`
 
 <p>
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=05080f" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP_8.3-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=05080f" />
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=05080f" />
   <img alt="Filament" src="https://img.shields.io/badge/Filament-FDAE4B?style=for-the-badge&logo=filament&logoColor=white&labelColor=05080f" />
   <img alt="Livewire" src="https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white&labelColor=05080f" />
@@ -88,13 +112,15 @@ Single-number, multi-provider WhatsApp commerce. Generic flow engine for restaur
 <p>
   <img alt="Anthropic" src="https://img.shields.io/badge/Anthropic-CC785C?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=05080f" />
   <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=05080f" />
+  <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp_Cloud_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=05080f" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=05080f" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=05080f" />
 </p>
 <p>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=05080f&labelColor=05080f" />
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=05080f" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=05080f" />
   <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=05080f" />
-  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=05080f" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=05080f" />
 </p>
 
@@ -107,6 +133,8 @@ Single-number, multi-provider WhatsApp commerce. Generic flow engine for restaur
 <a href="https://github.com/mbangi66">
   <img src="https://streak-stats.demolab.com?user=mbangi66&theme=dark&hide_border=false&background=0b1020&stroke=1f2937&ring=6366f1&fire=3b82f6&currStreakLabel=6366f1&sideLabels=a1a1aa&dates=a1a1aa&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" />
 </a>
+
+<sub>Most of my day-to-day work is in private client repos, so the public graph shows only part of it.</sub>
 
 </div>
 
@@ -126,16 +154,16 @@ Single-number, multi-provider WhatsApp commerce. Generic flow engine for restaur
 
 ---
 
-### `// elsewhere`
+### `// get in touch`
 
 <div align="center">
 
-<a href="https://mustaqeembangi.com">🌐 mustaqeembangi.com</a>&nbsp;·&nbsp;
+<a href="https://mustaqeembangi.vercel.app">🌐 Portfolio</a>&nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/mustaqeembangi/">LinkedIn</a>&nbsp;·&nbsp;
 <a href="mailto:mbangi66@gmail.com">mbangi66@gmail.com</a>&nbsp;·&nbsp;
 <a href="https://twitter.com/Mustaqeembangi">X / Twitter</a>
 
-<sub>📍 Kuwait City · open to senior Laravel work and 6–12 week SaaS engagements.</sub>
+<sub>📍 Kuwait City · Open to senior Laravel roles and 6–12 week SaaS projects.</sub>
 
 <img src="https://komarev.com/ghpvc/?username=mbangi66&label=Profile%20views&color=6366f1&style=for-the-badge" alt="Profile views" />
 
