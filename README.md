@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://mustaqeembangi.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=720&height=44&lines=Senior+Laravel+%26+Systems+Engineer;Production+SaaS+for+Kuwait+%26+the+GCC;From+code+to+servers%2C+end+to+end;Ship+in+small+steps.+Never+break+production." alt="Mustaqeem Bangi — Senior Laravel & Systems Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=720&height=44&lines=From+first+idea+to+full+orbit.;Senior+Laravel+%26+Systems+Engineer;30%2B+live+apps+built+and+run+from+Kuwait;Ship+in+small+steps.+Never+break+what+works." alt="Mustaqeem Bangi, Senior Laravel and Systems Engineer" />
 </a>
 
 # Hey, I'm Mustaqeem Bangi&nbsp;<img alt="wave" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
@@ -20,83 +20,47 @@
 
 ### `// about`
 
-I build and run production software for businesses in Kuwait and the GCC, end to end: the Laravel code, payment and messaging integrations, the servers, the deploys and the backups.
+I'm a Laravel engineer in Kuwait. I take business ideas from a sketch to a live system, then I keep them running: the code, the payments and WhatsApp, the servers, the updates and the backups.
 
-Most of my work is on systems that are already live and earning money, so I care more about keeping them working than about rewriting them. Changes stay backward compatible and go out behind feature flags, in small steps, with tests.
+Most of what I work on is live and making money for someone, so I'm careful with it. I'd rather ship ten small, safe changes than one big risky rewrite.
 
-- 💼 &nbsp;Lead engineer across a portfolio of multi-tenant Laravel products
-- 🛠️ &nbsp;3+ years shipping Laravel to production
-- 🗣️ &nbsp;Bilingual products by default: Arabic (RTL) and English
+- 💼 &nbsp;Lead engineer at Majestic Information Technology, running 30+ live apps
+- 🏢 &nbsp;One system I built now runs 14+ businesses: restaurants, shops, rentals and services
+- 🛠️ &nbsp;Building for the web since 2020, Laravel since 2021
+- 🗣️ &nbsp;Everything I ship works in Arabic and English
 - 🌍 &nbsp;Based in Kuwait, originally from Maharashtra, India
 
 ---
 
 ### `// what I build`
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🍽️ &nbsp;Restaurant & POS systems
-Online ordering, admin back office, tablet POS, kitchen printing, delivery-platform integrations, accounting and HR, multi-brand and multi-branch.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🛒 &nbsp;E-commerce & retail
-Storefronts with in-store POS, a mobile app API, warehouse and stock management, and local payment gateways.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 💬 &nbsp;WhatsApp commerce & automation
-Ordering, bookings and payments over WhatsApp, with interactive flows, AI replies, and spam and cost controls on every automated path.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🧠 &nbsp;AI-powered SaaS
-Multi-tenant products built on LLMs: competitive intelligence, social-media management, and large batch processing.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🩺 &nbsp;Clinic & booking platforms
-One codebase serving many clients, configured per install rather than forked: appointments, patient records and reminders.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🛰️ &nbsp;Real-time & data pipelines
-Live GPS and fleet tracking, WebSocket dashboards, and syncing large datasets between databases.
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-#### 🖥️ &nbsp;DevOps & hosting
-I run Linux servers that host many Laravel apps side by side: zero-downtime deploys, queue workers, caching, monitoring and automated off-site backups.
-
-</td>
-</tr>
-</table>
+| | |
+|---|---|
+| 🍽️ **Restaurant & POS systems** | Online ordering, tablet tills, kitchen printing, delivery apps, loyalty and offers. One branch or fifty. |
+| 🧾 **ERP: accounting, HR & payroll** | Accounts, cost centres and balance sheets; staff, attendance, leave, loans and payslips; contracts and assets. |
+| 💬 **WhatsApp platforms** | Ordering and booking chats, campaigns, offers, payment links and AI replies, with spam and cost controls. |
+| 🛒 **Online stores & retail** | Storefronts, shop POS, mobile app APIs, warehouse stock and local payment gateways. |
+| 🩺 **Clinics & healthcare** | Patients, visits, doctors' shifts and pay, labs, medication and insurance, with a log of who opened each file. |
+| 🧠 **AI products** | Competitor tracking, content writing and answering questions about your data, run cheaply in batches. |
+| 🚗 **Marketplaces & bookings** | Car sales and rentals, dealers, deal tracking, reservations, subscriptions and price alerts. |
+| 🎓 **Online learning** | Course platforms with live classes, instructor payouts, certificates and instalments. |
+| 🛰️ **Live tracking, IoT & data** | GPS for 7,000+ vehicles, connected car wash machines, and syncing millions of rows between databases. |
+| 🖥️ **DevOps & hosting** | 30+ Laravel apps on servers I run: deploys with no downtime, queues, DNS and mail, nightly backups. |
 
 ---
 
 ### `// featured work`
 
-Three products I designed, built and run in production. Full case studies are on my [portfolio](https://mustaqeembangi.vercel.app/#work).
+Full case studies are on my [portfolio](https://mustaqeembangi.vercel.app/#work).
 
 | | Product | What it is |
 |---|---|---|
-| 🧠 | [**Social Hub**](https://social-hub.net) | AI-powered competitive intelligence and social-media management SaaS for GCC brands |
-| 🛰️ | [**Fleet Telematics**](https://gps-majestic.com) | Real-time GPS fleet tracking with live maps, alerts and reporting |
-| 💬 | [**WhatsApp Commerce**](https://mustaqeembangi.vercel.app/#work) | Ordering, bookings and payments inside WhatsApp, in Arabic and English |
+| 🏢 | **Business ERP & Restaurant Platform** | One system running 14+ businesses. I merged four drifted codebases into it. |
+| 🧠 | [**Social Hub**](https://social-hub.net) | AI competitor tracking and social media management for Gulf brands. Built on my own. |
+| 🛰️ | [**Fleet Telematics**](https://gps-majestic.com) | Live GPS tracking for 7,000+ vehicles in Kuwait. |
+| 💬 | **WhatsApp Business Platform** | Ordering, bookings, clinics and campaigns, all run from WhatsApp. |
+
+<sub>Also in production: clinic management, retail & warehouse, a car marketplace, a smart car wash, online learning platforms, a website builder and a luxury online store. Most are private client systems, so I describe them without naming the client.</sub>
 
 ---
 
@@ -177,6 +141,6 @@ Three products I designed, built and run in production. Full case studies are on
 <a href="mailto:mbangi66@gmail.com">mbangi66@gmail.com</a>&nbsp;·&nbsp;
 <a href="https://twitter.com/Mustaqeembangi">X / Twitter</a>
 
-<sub>📍 Kuwait City · Open to senior Laravel roles and 6–12 week SaaS projects.</sub>
+<sub>📍 Kuwait City · Open to full time roles and freelance projects.</sub>
 
 </div>
