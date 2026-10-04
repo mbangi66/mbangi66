@@ -24,7 +24,7 @@ I'm a Laravel engineer in Kuwait. I take business ideas from a sketch to a live 
 
 Most of what I work on is live and making money for someone, so I'm careful with it. I'd rather ship ten small, safe changes than one big risky rewrite.
 
-- 💼 &nbsp;Lead engineer at Majestic Information Technology, running 30+ live apps
+- 💼 &nbsp;Lead engineer at Majestic Company for Communications, running 30+ live apps
 - 🏢 &nbsp;One system I built now runs 14+ businesses: restaurants, shops, rentals and services
 - 🛠️ &nbsp;Building for the web since 2020, Laravel since 2021
 - 🗣️ &nbsp;Everything I ship works in Arabic and English
@@ -44,6 +44,7 @@ Most of what I work on is live and making money for someone, so I'm careful with
 | 🧠 **AI products** | Competitor tracking, content writing and answering questions about your data, run cheaply in batches. |
 | 🚗 **Marketplaces & bookings** | Car sales and rentals, dealers, deal tracking, reservations, subscriptions and price alerts. |
 | 🎓 **Online learning** | Course platforms with live classes, instructor payouts, certificates and instalments. |
+| 🖥️ **Desktop & Windows apps** | Electron POS apps that work offline, and .NET agents that drive shop printers and keep backups running. |
 | 🛰️ **Live tracking, IoT & data** | GPS for 7,000+ vehicles, connected car wash machines, and syncing millions of rows between databases. |
 | 🖥️ **DevOps & hosting** | 30+ Laravel apps on servers I run: deploys with no downtime, queues, DNS and mail, nightly backups. |
 
@@ -57,10 +58,11 @@ Full case studies are on my [portfolio](https://mustaqeembangi.vercel.app/#work)
 |---|---|---|
 | 🏢 | **Business ERP & Restaurant Platform** | One system running 14+ businesses. I merged four drifted codebases into it. |
 | 🧠 | [**Social Hub**](https://social-hub.net) | AI competitor tracking and social media management for Gulf brands. Built on my own. |
-| 🛰️ | [**Fleet Telematics**](https://gps-majestic.com) | Live GPS tracking for 7,000+ vehicles in Kuwait. |
+| 🛰️ | [**Fleet Telematics**](https://fleet.majestic-kw.com) | Live GPS tracking for 7,000+ vehicles in Kuwait. |
 | 💬 | **WhatsApp Business Platform** | Ordering, bookings, clinics and campaigns, all run from WhatsApp. |
+| 🖥️ | [**Desktop POS**](https://github.com/kdafar/pos-app) | An Electron till app that keeps selling offline and syncs when the connection returns. |
 
-<sub>Also in production: clinic management, retail & warehouse, a car marketplace, a smart car wash, online learning platforms, a website builder and a luxury online store. Most are private client systems, so I describe them without naming the client.</sub>
+<sub>Also in production: a hospital meal and room service system, .NET print and backup agents for shop PCs, clinic management, retail & warehouse, a car marketplace, a smart car wash, Najeh and other online learning platforms, a website builder and a luxury online store. Most are private client systems, so I describe them without naming the client.</sub>
 
 ---
 
