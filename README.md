@@ -109,8 +109,8 @@ Full case studies are on my [portfolio](https://mustaqeem.is-a.dev/#work).
 
 <div align="center">
 
-<a href="https://github.com/mbangi66">
-  <img src="https://streak-stats.demolab.com?user=mbangi66&theme=dark&hide_border=false&background=0b1020&stroke=1f2937&ring=6366f1&fire=3b82f6&currStreakLabel=6366f1&sideLabels=a1a1aa&dates=a1a1aa&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" />
+<a href="https://github.com/mustaqeembangi">
+  <img src="https://streak-stats.demolab.com?user=mustaqeembangi&theme=dark&hide_border=false&background=0b1020&stroke=1f2937&ring=6366f1&fire=3b82f6&currStreakLabel=6366f1&sideLabels=a1a1aa&dates=a1a1aa&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" />
 </a>
 
 <sub>Most of my day-to-day work is in private client repos, so the public graph shows only part of it.</sub>
@@ -124,9 +124,9 @@ Full case studies are on my [portfolio](https://mustaqeem.is-a.dev/#work).
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mbangi66/mbangi66/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mbangi66/mbangi66/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation eating the contribution graph" src="https://raw.githubusercontent.com/mbangi66/mbangi66/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mustaqeembangi/mustaqeembangi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mustaqeembangi/mustaqeembangi/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation eating the contribution graph" src="https://raw.githubusercontent.com/mustaqeembangi/mustaqeembangi/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
