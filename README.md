@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://mustaqeembangi.vercel.app">
+<a href="https://mustaqeem.is-a.dev">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=720&height=44&lines=From+first+idea+to+full+orbit.;Senior+Laravel+%26+Systems+Engineer;30%2B+live+apps+built+and+run+from+Kuwait;Ship+in+small+steps.+Never+break+what+works." alt="Mustaqeem Bangi, Senior Laravel and Systems Engineer" />
 </a>
 
@@ -8,10 +8,10 @@
 
 **Senior Laravel & Systems Engineer** &nbsp;·&nbsp; Kuwait City (GMT+3)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mustaqeembangi.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=05080f)](https://mustaqeembangi.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mustaqeem.is--a.dev-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=05080f)](https://mustaqeem.is-a.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mustaqeembangi-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=05080f)](https://www.linkedin.com/in/mustaqeembangi/)
 [![Email](https://img.shields.io/badge/Email-mbangi66%40gmail.com-3b82f6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05080f)](mailto:mbangi66@gmail.com)
-[![CV](https://img.shields.io/badge/CV-Download_PDF-10b981?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=05080f)](https://mustaqeembangi.vercel.app/Mustaqeem_Bangi_CV.pdf)
+[![CV](https://img.shields.io/badge/CV-Download_PDF-10b981?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=05080f)](https://mustaqeem.is-a.dev/Mustaqeem_Bangi_CV.pdf)
 [![X](https://img.shields.io/badge/X-%40Mustaqeembangi-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=05080f)](https://twitter.com/Mustaqeembangi)
 
 </div>
@@ -52,7 +52,7 @@ Most of what I work on is live and making money for someone, so I'm careful with
 
 ### `// featured work`
 
-Full case studies are on my [portfolio](https://mustaqeembangi.vercel.app/#work).
+Full case studies are on my [portfolio](https://mustaqeem.is-a.dev/#work).
 
 | | Product | What it is |
 |---|---|---|
@@ -137,8 +137,8 @@ Full case studies are on my [portfolio](https://mustaqeembangi.vercel.app/#work)
 
 <div align="center">
 
-<a href="https://mustaqeembangi.vercel.app">🌐 Portfolio</a>&nbsp;·&nbsp;
-<a href="https://mustaqeembangi.vercel.app/Mustaqeem_Bangi_CV.pdf">📄 CV</a>&nbsp;·&nbsp;
+<a href="https://mustaqeem.is-a.dev">🌐 Portfolio</a>&nbsp;·&nbsp;
+<a href="https://mustaqeem.is-a.dev/Mustaqeem_Bangi_CV.pdf">📄 CV</a>&nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/mustaqeembangi/">LinkedIn</a>&nbsp;·&nbsp;
 <a href="mailto:mbangi66@gmail.com">mbangi66@gmail.com</a>&nbsp;·&nbsp;
 <a href="https://twitter.com/Mustaqeembangi">X / Twitter</a>
