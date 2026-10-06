@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mustaqeem.is--a.dev-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=05080f)](https://mustaqeem.is-a.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mustaqeembangi-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=05080f)](https://www.linkedin.com/in/mustaqeembangi/)
-[![Email](https://img.shields.io/badge/Email-mbangi66%40gmail.com-3b82f6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05080f)](mailto:mbangi66@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mustaqeemabangi%40gmail.com-3b82f6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=05080f)](mailto:mustaqeemabangi@gmail.com)
 [![CV](https://img.shields.io/badge/CV-Download_PDF-10b981?style=for-the-badge&logo=readdotcv&logoColor=white&labelColor=05080f)](https://mustaqeem.is-a.dev/Mustaqeem_Bangi_CV.pdf)
 [![X](https://img.shields.io/badge/X-%40Mustaqeembangi-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=05080f)](https://twitter.com/Mustaqeembangi)
 
@@ -140,7 +140,7 @@ Full case studies are on my [portfolio](https://mustaqeem.is-a.dev/#work).
 <a href="https://mustaqeem.is-a.dev">🌐 Portfolio</a>&nbsp;·&nbsp;
 <a href="https://mustaqeem.is-a.dev/Mustaqeem_Bangi_CV.pdf">📄 CV</a>&nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/mustaqeembangi/">LinkedIn</a>&nbsp;·&nbsp;
-<a href="mailto:mbangi66@gmail.com">mbangi66@gmail.com</a>&nbsp;·&nbsp;
+<a href="mailto:mustaqeemabangi@gmail.com">mustaqeemabangi@gmail.com</a>&nbsp;·&nbsp;
 <a href="https://twitter.com/Mustaqeembangi">X / Twitter</a>
 
 <sub>📍 Kuwait City · Open to full time roles and freelance projects.</sub>
